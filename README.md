@@ -59,7 +59,7 @@ The submitted output will be evaluated by the **AUC-ROC score**
 
 ## Leaderboard
 
-* **[Public LB](https://datahack.analyticsvidhya.com/contest/hikeathon/lb)** : **17th Rank**
-* **[Private LB](https://datahack.analyticsvidhya.com/contest/hikeathon/pvt_lb)** : **23th Rank**
+* **[Public LB](https://datahack.analyticsvidhya.com/contest/hikeathon/lb)** : **61st Rank**
+* **[Private LB](https://datahack.analyticsvidhya.com/contest/hikeathon/pvt_lb)** : **60th Rank**
 
  
